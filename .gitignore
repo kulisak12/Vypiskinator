@@ -1,0 +1,7 @@
+# Ignore compiled executables and generated logs
+*.exe
+*.log
+
+# Ignore input and output
+input.html
+output.html
