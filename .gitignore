@@ -3,5 +3,5 @@
 *.log
 
 # Ignore input and output
-input.html
+note.html
 output.html
