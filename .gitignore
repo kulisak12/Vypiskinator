@@ -1,7 +1,20 @@
-# Ignore compiled executables and generated logs
-*.exe
-*.log
+## Project specific ignores
 
-# Ignore input and output
+# Input and output
 note.html
 output.html
+
+## Ignore Visual Studio files
+
+# Build results
+Release/
+Debug/
+
+# Project files
+*.vcxproj
+*.vcxproj.filters
+
+# Precompiled headers
+stdafx.h
+stdafx.cpp
+targetver.h

@@ -1,3 +1,5 @@
+#include "stdafx.h"
+#include <string>
 #include "itemList.h"
 
 void setTextProperty(std::string* source, std::string typeSign) {

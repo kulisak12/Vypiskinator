@@ -1,6 +1,10 @@
+#include "stdafx.h"
+#include <vector>
+#include <string>
 #include "itemList.h"
 
 extern std::vector<std::string> code;
+extern int line;
 
 // lighter version of power function
 int power(int base, int exponent) {

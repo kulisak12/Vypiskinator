@@ -1,3 +1,6 @@
+#include "stdafx.h"
+#include <vector>
+#include <string>
 #include "itemList.h"
 
 extern std::vector<std::string> code;

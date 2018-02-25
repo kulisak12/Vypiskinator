@@ -1,3 +1,6 @@
+#include "stdafx.h"
+#include <string>
+
 void createHeading(std::string* source, std::string toReplace, std::string replaceWith) {
 	// change first font size change to heading element
 	int heading = source->find(toReplace);

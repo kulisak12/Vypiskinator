@@ -1,3 +1,5 @@
+#include "stdafx.h"
+#include <vector>
 #include "itemList.h"
 
 extern int line;

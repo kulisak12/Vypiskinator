@@ -1,3 +1,5 @@
+#include "stdafx.h"
+#include <string>
 #include <math.h>
 
 // convert HTML entity code to a set of UTF-8 encoded characters
